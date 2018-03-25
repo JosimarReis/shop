@@ -286,7 +286,9 @@
 
 @media only screen and (max-width: 768px)
 {
-	
+	.main_slider{
+		background-image:url("../images/slider_1_768.jpg") !important;
+	}
 }
 
 /************
@@ -295,6 +297,7 @@
 
 @media only screen and (max-width: 767px)
 {
+
 	h1{font-size: 36px;}
 	h2{font-size: 24px;}
 	h6{font-size: 12px;}
@@ -367,6 +370,7 @@
 
 @media only screen and (max-width: 575px)
 {
+
 	.hamburger_menu
 	{
 		right: -100%;
@@ -413,7 +417,8 @@
 
 @media only screen and (max-width: 539px)
 {
-	
+
+
 }
 
 /************
@@ -422,7 +427,9 @@
 
 @media only screen and (max-width: 480px)
 {
-	
+	.main_slider{
+		background-image:url("../images/slider_1_467.jpg") !important;
+	}
 }
 
 /************
@@ -431,6 +438,7 @@
 
 @media only screen and (max-width: 479px)
 {
+
 	.logo_container a
 	{
 		font-size: 12px;
