@@ -102,11 +102,11 @@ a, a:hover, a:visited, a:active, a:link
 p a:active
 {
 	position: relative;
-	color: #FF6347;
+	color: #FFF99F;
 }
 p a:hover
 {
-	color: #FF6347;
+	color: #FFF99F;
 	background: #fde0db;
 }
 p a:hover::after
@@ -116,7 +116,7 @@ p a:hover::after
 ::selection
 {
 	background: #fde0db;
-	color: #FF6347;
+	color: #FFF99F;
 }
 p::selection
 {
