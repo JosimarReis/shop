@@ -867,7 +867,7 @@ section
 }
 .red_button:hover
 {
-	background: #FE7C7F !important;
+	background: #FFF99F !important;
 }
 .red_button a
 {
@@ -990,7 +990,7 @@ section
 }
 .grid_sorting_button.active:hover
 {
-	background: #FE7C7F !important;
+	background: #FFF99F !important;
 }
 .grid_sorting_button.active
 {
@@ -1523,7 +1523,7 @@ section
 }
 .blog_more:hover
 {
-	color: #FE7C7F;
+	color: #FFF99F;
 }
 
 /*********************************
@@ -1616,7 +1616,7 @@ section
 }
 .newsletter_submit_btn:hover
 {
-	background: #FE7C7F;
+	background: #FFF99F;
 }
 
 /*********************************
