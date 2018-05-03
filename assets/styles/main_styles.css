@@ -856,6 +856,7 @@ section
 	justify-content: center;
 	align-items: center;
 	width: auto;
+	color: #FFFFFF;
 	height: 40px;
 	background: #E5C467;
 	border-radius: 3px;
@@ -868,6 +869,8 @@ section
 .red_button:hover
 {
 	background: #FFF99F !important;
+	color: #FFFFFF;
+	
 }
 .red_button a
 {
@@ -1147,6 +1150,20 @@ section
 .product_bubble_right
 {
 	right: 15px;
+}
+.add_to_cart_button_
+{
+	width: 100%;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-ms-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+.add_to_cart_button_ a
+{
+	font-size: 12px;
+	font-weight: 600;
 }
 .add_to_cart_button
 {
